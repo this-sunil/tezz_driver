@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "310017237758",
+    "project_id": "tezzdriver-4ba77",
+    "storage_bucket": "tezzdriver-4ba77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310017237758:android:01da9ab7a953d275dd3baf",
+        "android_client_info": {
+          "package_name": "com.example.tezz_driver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310017237758-5tauk3jb310kep03d808mvmfn1s7bhkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tezz_driver_app",
+            "certificate_hash": "611fe04831f17300e8942a4d611598ca79b789ec"
+          }
+        },
+        {
+          "client_id": "310017237758-68jakpgnr39pqdn9q7k9knkgquv72m3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDjY0RlZx6Sf2GU9ODB4JVJRiRH3qs0dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310017237758-68jakpgnr39pqdn9q7k9knkgquv72m3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
